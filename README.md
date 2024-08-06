@@ -1,2 +1,2 @@
-# features-and-availble
+# features-and-details
 paragraph
